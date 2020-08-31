@@ -1,0 +1,16 @@
+127.0.0.1 - - [24/Aug/2020:13:39:14 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:13:39:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:13:39:59 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [24/Aug/2020:13:55:56 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:13:55:58 +0530] "GET /productcrudapp/ HTTP/1.1" 200 57
+127.0.0.1 - - [24/Aug/2020:14:30:05 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:14:30:06 +0530] "GET /productcrudapp/WEB-INF/views/index.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:14:30:23 +0530] "GET /productcrudapp/WEB-INF/views/index.jsp/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:14:31:19 +0530] "GET /productcrudapp/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:14:33:30 +0530] "GET /productcrudapp/WEB-INF/classes/productcrudapp/controller/MainController.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:14:33:40 +0530] "GET /productcrudapp/WEB-INF/classes/productcrudapp/controller/MainController.java/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:14:33:59 +0530] "GET /productcrudapp/WEB-INF/views/index.jsp HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:14:34:50 +0530] "GET /productcrudapp/ HTTP/1.1" 404 682
+127.0.0.1 - - [24/Aug/2020:14:36:26 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:14:36:30 +0530] "GET /productcrudapp/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [24/Aug/2020:14:39:07 +0530] "GET /productcrudapp/ HTTP/1.1" 404 682
